@@ -24,5 +24,7 @@ B)Two places to declare variable 1) After import "fmt" 2) Inside main before usa
 
 C)We reassigned that varaible in the progarm and printed the value...dont know if it is immutable or not ?
 
+D) Default value is 0 for int 
+
 Run the code here for the third day https://play.golang.org/p/7GXCJViKu5W
 
