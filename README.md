@@ -16,3 +16,13 @@ Had the first ever interaction with Go- Language of Google // Printed on the con
 
 Run the code here for first and second day  https://play.golang.org/p/igXSORua9we
 
+3rd day - Learnt integer varaibles
+
+A)Declaration synatx is like - var age int
+
+B)Two places to declare variable 1) After import "fmt" 2) Inside main before usage as always
+
+C)We reassigned that varaible in the progarm and printed the value...dont know if it is immutable or not ?
+
+Run the code here for the third day https://play.golang.org/p/7GXCJViKu5W
+
