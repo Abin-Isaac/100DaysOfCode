@@ -28,7 +28,7 @@ D) Default value is 0 for int
 
 Run the code here for the third day https://play.golang.org/p/7GXCJViKu5W
 
-## 4th day - Varaibles with initial values 
+## 4th day - Variables with initial values 
 
 1) Declaration synatx is like - var age = value
 2) No requirement to assign type as Go will automatically infer the type.
