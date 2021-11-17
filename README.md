@@ -1,10 +1,10 @@
 
 Learning Source :- https://golangbot.com/hello-world-gomod/
 
-First Day -
+## First Day -
 Had the first ever interaction with Go- Language of Google // Printed on the console along with basic maths operations.
 
-2nd day - Learnt something new about new as 
+## 2nd day - Learnt something new about new as 
 
 1) Every Go file starts with a package name. Here we have used package main
 2) func main comes under package main 
@@ -16,7 +16,7 @@ Had the first ever interaction with Go- Language of Google // Printed on the con
 
 Run the code here for first and second day  https://play.golang.org/p/igXSORua9we
 
-3rd day - Learnt integer varaibles
+## 3rd day - Learnt integer varaibles
 
 A)Declaration synatx is like - var age int
 
@@ -28,3 +28,10 @@ D) Default value is 0 for int
 
 Run the code here for the third day https://play.golang.org/p/7GXCJViKu5W
 
+## 4th day - Varaibles with initial values 
+
+1) Declaration synatx is like - var age = value
+2) No requirement to assign type as Go will automatically infer the type.
+3) var age   = 'a' is printing 97 which is ASCII value of a so it may be taking the int type by default ??
+
+Run the code here :- https://play.golang.org/p/4uEAlOFi3OB
