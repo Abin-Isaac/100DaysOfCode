@@ -1,5 +1,5 @@
 
-Learning Source :- https://golangbot.com/hello-world-gomod/
+## Learning Source :- https://golangbot.com/
 
 ## First Day -
 Had the first ever interaction with Go- Language of Google // Printed on the console along with basic maths operations.
