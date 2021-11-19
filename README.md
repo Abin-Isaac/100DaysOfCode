@@ -35,3 +35,13 @@ Run the code here for the third day https://play.golang.org/p/7GXCJViKu5W
 3) var age   = 'a' is printing 97 which is ASCII value of a so it may be taking the int type by default ??
 
 Run the code here :- https://play.golang.org/p/4uEAlOFi3OB
+
+## 5th day - Multiple Variables in one line
+
+There are two ways to decalre multiple varaibeles in one line depdning on the type 
+1) Same data type - var width, height int = 100, 50
+2) Different data type - var 	(a=10; b='c';c=8.9)
+
+Note : If you try assigning more than one character then you will get "more than one character in rune literal"..??
+
+Run the code here :- https://play.golang.org/p/lWshD_L6NQU
