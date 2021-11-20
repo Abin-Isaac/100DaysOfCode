@@ -45,3 +45,13 @@ There are two ways to decalre multiple varaibeles in one line depdning on the ty
 Note : If you try assigning more than one character then you will get "more than one character in rune literal"..??
 
 Run the code here :- https://play.golang.org/p/lWshD_L6NQU
+
+## 6th day - Go with short hand...No var keyword required
+
+1) := is the sign of short hand in variable initialization.
+2) We can use in single or multi varaible initialization in one line like ---> name, age := "naveen", 29
+3) Compiler will be angry if we leave one varaible uninitialized...you will get an error 
+4) And there should be at least one new varaible on the left of := for initialization 
+
+Run the code here :- https://play.golang.org/p/YfdJ8X6I8jv
+
