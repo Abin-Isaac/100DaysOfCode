@@ -55,3 +55,7 @@ Run the code here :- https://play.golang.org/p/lWshD_L6NQU
 
 Run the code here :- https://play.golang.org/p/YfdJ8X6I8jv
 
+## 7th day - Assigning run time computed values to variables
+Used a library math and its function Min
+
+Run the code here :- https://play.golang.org/p/QyS5osA3WjQ
