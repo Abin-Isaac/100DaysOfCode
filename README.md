@@ -66,7 +66,7 @@ If you try reassigning a varaible with differet data type value you will be inte
 
 Run the code here :- https://go.dev/play/p/XXc44ePLbT_i
 
-## Bool Type - Go likes true not True - Okay !
+### Bool Type - Go likes true not True - Okay !
 
 You can use short hand to delcare bool variables easily.
 You can also use && and || operator to get the results
