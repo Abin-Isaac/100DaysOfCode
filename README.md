@@ -59,3 +59,16 @@ Run the code here :- https://play.golang.org/p/YfdJ8X6I8jv
 Used a library math and its function Min
 
 Run the code here :- https://play.golang.org/p/QyS5osA3WjQ
+
+## 8th day - Go is Strong (-typed) so don't mess okay !
+
+If you try reassigning a varaible with differet data type value you will be interrupted by Compiler 
+
+Run the code here :- https://go.dev/play/p/XXc44ePLbT_i
+
+## Bool Type - Go likes true not True - Okay !
+
+You can use short hand to delcare bool variables easily.
+You can also use && and || operator to get the results
+
+Run the code here :- https://go.dev/play/p/krqCgpVolM2
